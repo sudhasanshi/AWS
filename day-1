@@ -1,0 +1,55 @@
+Amazon Web Service
+Aws: AWS services is amazon’s cloud web hosting platform that offers flexible, reliable, scalable, easy to use and cost effective solutions.
+Cloud computing: is a term refer to storing and accessing the data over the internet
+There are 3 types of cloud services:
+1.	Private cloud: it is dedicated to single tenant. It is dedicated in terms of hardware and security.
+2.	Public cloud: shared with multiple tenants and cost is lesser. Ex: aws, GCP (google), Oracle, Microsoft Azure, Alibaba cloud etc…
+3.	Hybrid cloud: hybrid is a combination of both public and private cloud. It is the most successful cloud practice. Example: Openstack & VMware
+What is the reason behind cloud? Answer: Virtualization
+Virtualization will transfer hardware into software example: VMware
+Private cloud:  is having dedicated to a single organization, highly secured and Greater flexibility.
+Public cloud: Third party provider makes resources and services available to the customer via      
+                                               Internet
+Advantages: cost effective, reliability, unlimited storage, backup & recovery
+Third party providers: aws, GCP (google), Oracle, Microsoft Azure etc…
+ 
+                     3 types of services
+1.	IaaS=Infra structure as a service
+2.	PaaS = Platform as a service
+3.	SaaS= Software as a service
+
+  
+  
+
+Advantages of IAS:
+1.	Shared infrastructure
+2.	Pay as per you use model
+3.	Focus on core business
+4.	On demand scalability
+Disadvantage of IAS:
+1.	Security
+2.	Maintenance & upgrade
+PAS
+Ex: Google app engine, salesforce, windows azure etc
+Advantages of PAS:
+1.	Simplified Development
+2.	Lower risk
+3.	Scalability
+Disadvantages of PAS:
+1.	Vendor locking /flexibility
+2.	Integrating with rest of the applications
+SAS 
+Example: Google, Microsoft office 365
+
+Advantages of SAS:
+1.	Reduced time to benefit
+2.	Lower costs
+3.	Scalability and integration
+4.	Trouble-free Upgradation
+5.	Easy to use and perform proof-of-concepts
+Disadvantages
+1.	Insufficient Data Security
+2.	Difficulty with Regulations Compliance
+3.	Cumbersome Data Mobility
+4.	Low Performance
+
